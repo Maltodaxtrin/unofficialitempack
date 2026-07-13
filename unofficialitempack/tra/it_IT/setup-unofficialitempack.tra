@@ -1,0 +1,810 @@
+@0    = ~Unofficial Item Pack~
+
+
+@1    = ~Questa pietra sigillo è un'area virtuale di oscurità e sembra risucchiare la luce dallo spazio intorno a sé. La forma della pietra è difficile da comprendere, nascosta nell'ombra com'è. Se utilizzata come Ioun Stone, l'ombra ricopre completamente chi la indossa e protegge dagli attacchi anche delle creature più feroci dell'oscurità.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Protezione dal Piano Negativo
+
+Peso: 1~
+
+
+@2    = ~I tre simboli sacri si sono uniti per formare questo disco, il Simbolo di Amaunator. Contiene ancora frammenti del potere perduto del Dio del Sole, che può essere usato per lanciare Raggio Solare una volta al giorno.
+
+STATISTICHE:
+
+Abilità attivabili:
+- Raggio Solare una volta al giorno
+
+Peso: 1~
+
+
+@3    = ~Questa è la maschera di re Strohm III, completamente ricostruita. Quando la poni sul tuo volto, il mondo si tinge di colori strani. La maschera permette al portatore di vedere le cose come realmente sono.
+
+STATISTICHE:
+
+Abilità attivabili:
+- Visione del Vero una volta al giorno
+
+Abilità durante l'uso:
+- Classe Armatura: +1
+
+Peso: 1~
+
+
+@4    = ~Questo è un ciondolo di ottima fattura e lavorato con grande cura, il tipico oggetto che viene spesso donato alla persona amata. Un incantamento minore ha cercato di riprodurre l'aspetto di <CHARNAME> e di Jaheira al suo interno, facendone un ottimo regalo. Uno dei due lati si è un po' sbiadito, ma rimane comunque uno splendido dono. Quando Jaheira ha il ciondolo attorno al collo, ha un aspetto molto più rilassato.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Punti Ferita: +5
+– Carisma: +1
+- Classe Armatura: +1
+
+Peso: 1~
+
+@5    = ~Queste sono le gemme in cui il lich Deirex rinchiude le anime imprigionate dei suoi nemici. Una persona veramente malvagia potrebbe estrarre la vitalità dei guerrieri drow imprigionati. Tuttavia, richiederebbe una grande concentrazione mentale, che non gli permetterebbe di lanciare magie.
+
+Abilità attivabili:
+- Trasformazione di Tenser una volta al giorno
+
+STATISTICHE:
+
+Peso: 1~
+
+@6    = ~Questa mazza è stata creata dai drow con grande abilità e trattata specificatamente per sopravvivere alla luce del sole. È stata realizzata per le incursioni in superficie da parte delle razze del Sottosuolo... e il suo metallo nero trasuda uno strano veleno che sembra generarsi dall'interno e che causa danni incredibili a contatto.
+
+La mazza sembra quasi viva e calda al tocco e scivola via dalle mani di coloro che non gradisce... e gradisce solo i drow o quanti sono abbastanza simili a loro da non essere distinguibili. Nelle mani di chiunque altro, la mazza diventa un peso morto.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio colpito deve effettuare con successo un tiro-salvezza contro Veleno con una penalità pari a -2 o subire 2 punti di danno per round per 1 turno
+
+THAC0: +3
+Danno: 1d6+4 (contundente)
+Fattore-velocità: 6
+Tipo di Competenza: Mace
+Tipo: A una mano
+
+Peso: 7~
+
+
+@7    = ~Il Mantello Distorcente è un oggetto magico che causa una leggera sfocatura nell'aspetto del suo portatore. Ha il potere di spostare in una direzione qualsiasi l'immagine di un individuo, sino a un massimo di 15 centimetri dalla sua attuale posizione. Se da una parte è un'ottima difesa nei combattimenti, dall'altra è stato anche causa di affaticamento oculare tra i compagni di viaggio nel gruppo del portatore.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +4 contro attacchi con armi da lancio
+– Tiri-salvezza contro Morte: +2
+– Tiri-salvezza contro Soffio: +2
+– Tiri-salvezza contro Bacchette: +2
+
+Peso: 3~
+
+
+@8    = ~Si sa poco su questo artiglio, tranne il fatto che sia stato preso dalla carcassa della grande bestia Kazgaroth. Ha diversi incantesimi che diventano tutti attivi quando l'artiglio viene portato come un anello. L'immagine del portatore diventa sfocata e più difficile da colpire con armi o con incantesimi. Ha però uno svantaggio, in quanto sembra trarre il suo potere dal sangue del suo portatore. Per questo motivo, chi indossa l'artiglio diventerà sempre più debole e quindi più suscettibile ai veleni.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Costituzione: -2
+– Classe Armatura: +1, +4 contro attacchi con armi da lancio
+– Tiri-salvezza contro Morte: -3
+– Tiri-salvezza contro Bacchette: +3
+– Tiri-salvezza contro Metamorfosi: +3
+– Tiri-salvezza contro Soffio: +3
+– Tiri-salvezza contro Incantesimi: +3
+– Può essere rimosso soltanto con l'incantesimo Scaccia Maledizione
+
+Peso: 1~
+
+@9    = ~Intrecciata dai migliori artigiani drow, questa maglia sembra più simile al tessuto che al metallo. L'armatura può essere indossata dai Ladri con poche penalità e dai Guerrieri/Maghi senza perdere la loro capacità di lanciare incantesimi.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Scassinare Serrature: -5%
+– Scoprire Trappole: -5%
+– Svuotare Tasche: -20%
+– Muoversi Silenziosamente: -10%
+– Il lancio degli incantesimi non viene disabilitato
+
+Classe Armatura: 3 (1 contro tagliente, 5 contro contundente)
+Richiede:
+Forza 5
+
+Peso: 8~
+
+@10    = ~Questo simbolo sacro del Dio Tyr indica che il portatore è un agente della sua giustizia ed ha il permesso di eseguire il giudizio contro coloro che sono ritenuti malvagi ai suoi occhi.
+
+Chiunque indossi questo potente amuleto è protetto dal male e la sua mente è sempre lucida.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Protezione dal male
+– Immunità allo charme
+– Immunità alla confusione
+
+Peso: 0~
+
+@11    = ~Stringendo questo talismano con forza, si viene magicamente trasportati verso un'ubicazione predeterminata. Questo particolare Talismano del Fuoco Sacro è stato costruito per trasportare l'utilizzatore in un rifugio che si cela tra le foreste dell'Amn.
+
+La Magia Selvaggia fornisce molto più potere del necessario, quindi il talismano può essere utilizzato anche per trasporti rapidi su brevi distanze.
+
+STATISTICHE:
+
+Abilità attivabili:
+- Porta Dimensionale tre volte al giorno
+
+Peso: 1~
+
+@12    = ~Un diadema d'oro trovato all'interno della tomba sigillata nel cimitero di Trademeet. È stato ossidato dal tempo, ma si riesce ancora a distinguere il simbolo di Waukeen su di esso e percepire le benedizioni della Dama Dorata.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Carisma: +2
+- Il portatore è sotto gli effetti della magia Fortuna
+
+Peso: 1~
+
+@13    = ~Questo è il frammento di cristallo ottenuto dall'avatar di Kurtulmak, la cui essenza era intrappolata in un cristallo gigantesco. I coboldi sembravano adorarlo.
+
+Sembrerebbe che le proprietà magiche del frammento di cristallo possano essere usate per assorbire magie nemiche.
+
+STATISTICHE:
+
+Abilità attivabili:
+- Raggio Rubino dell'Inversione una volta al giorno
+
+Peso: 18~
+
+@14    = ~Boo è un piccolo criceto peloso. Sebbene Minsc creda che Boo sia un criceto spaziale gigante in miniatura, tu sei piuttosto certo che il piccolo roditore sia solo un normale criceto.
+
+STATISTICHE:
+
+Abilità attivabili:
+- Boo può sentire puzza di malvagità!
+
+Peso: 1~
+
+@15    = ~Armatura di Pelle +5: Carne Umana
+
+Realizzata da pelle umana e trattata nel sangue di un nobile drago, quest'armatura emana un forte fetore di morte. Questo malefico completo può essere usato solo da persone davvero malvagie.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Tiri-salvezza: +4
+– Resistenza alla Magia: +20%
+– Muoversi Silenziosamente: +20%
+
+Classe Armatura: 3 (5 contro danno perforante e da proiettile)
+Richiede:
+Forza 3
+
+Peso: 5~
+
+@16    = ~Il piccolo zaffiro a stella che conserva l'anima della giovane innocente, Malla, ha la magica capacità di fluttuare davanti alla fronte e di funzionare come una pietra ioun di considerevole potere. Tuttavia, solo coloro che non hanno una coscienza penserebbero di utilizzare questo oggetto.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Destrezza: +1
+– Costituzione: +1
+– Punti Ferita: +10
+
+Peso: 2~
+
+@17    = ~Un finto torto provocò un duello tra l'arrampicatore sociale Andor Licon e il Barone Eeirk, erede di un re guerriero. Sebbene i duellanti sembrassero entrambi di pari abilità, Andor diventava stranamente più debole ad ogni colpo della lama della famiglia del Barone. Preso dal panico, ordinò alle sue guardie del corpo di uccidere Eeirk. Nonostante le sue rivendicazioni di moralità, alcuni notarono che il giovane nobile aveva posizionato i suoi uomini prima che il duello fosse persino iniziato e, sebbene professasse disdegno per la sua magia nera, Andor fece una considerevole fortuna dalla vendita della malvagia spada.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Ogni colpo messo a segno infligge al bersaglio una penalità pari a 2 al THAC0 (cumulabile) per 2 turni
+– Ogni colpo messo a segno risucchia 2 Punti Ferita dal bersaglio e li trasferisce a chi brandisce l'arma (senza andare oltre ai suoi Punti Ferita Massimi)
+
+THAC0: +4
+Danno: 1d12+4 (tagliente)
+Fattore-velocità: 6
+Tipo di Competenza: Spada a Due Mani
+Tipo: A due mani
+Richiede:
+Forza 14
+
+Peso: 10~
+
+@18    = ~Katana della Fratellanza Scarlatta~
+
+@19    = ~Quando un membro della Confraternita Scarlatta uccide uno dei "grandi nemici" dell'organizzazione, spesso riceve in premio questa spada. Come questa spada sia arrivata dal mondo di Greyhawk (dove risiede la Confraternita) fino a Faerûn è un mistero. Quando è fuori dal fodero, la katana risplende di luce rosso sangue.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– 1 attacco addizionale per round
+– Il bersaglio colpito subisce 6 punti di danno da veleno per round per 2 round (un tiro-salvezza contro Morte effettuato con successo nega gli effetti)
+
+THAC0: +3
+Danno: 1d10+3 (tagliente)
+Fattore-velocità: 1
+Tipo di Competenza: Katana
+Tipo: A una mano
+Richiede:
+Forza 6
+
+Peso: 2~
+
+@20    = ~Katana della Fratellanza Scarlatta~
+
+@21    = ~Katana della Fratellanza Scarlatta~
+
+@22    = ~Gourmet dal Sottosuolo~
+
+@23    = ~Questo peduncolo oculare apparteneva a un occhio anziano non particolarmente disposto a separarsene. È un ingrediente molto potente.
+
+Se consumato, verrà assimilata parte della saggezza di un occhio anziano.
+
+STATISTICHE:
+
+Speciale:
+- Aumenta la Saggezza di 1 punto in maniera permanente. Per attivare il potere del peduncolo, posizionalo in uno slot rapido e clicca su di esso. Il peduncolo scompare dopo l'uso.
+
+Peso: 5~
+
+@24    = ~Questo è il sangue del principe kuo-toa. È un ingrediente molto potente.
+
+Se consumato, verrà assimilata parte della destrezza di un kuo-toa.
+
+STATISTICHE:
+
+Speciale:
+- Aumenta la Destrezza di 1 punto in maniera permanente. Per attivare il potere del sangue, posizionalo in uno slot rapido e clicca su di esso. Il sangue scompare dopo l'uso.
+
+Peso: 5~
+
+@25    = ~Questo è il sangue di una mente antica. Una materia cerebrale spugnosa galleggia nella sostanza sanguigna nerastra. È un ingrediente molto potente.
+
+Se consumato, verrà assimilata parte dell'intelligenza di una mente antica.
+
+STATISTICHE:
+
+Speciale:
+- Aumenta l'Intelligenza di 1 punto in maniera permanente. Per attivare il potere del sangue, posizionalo in uno slot rapido e clicca su di esso. Il sangue scompare dopo l'uso.
+
+Peso: 5~
+
+@26    = ~Simboli Sacri~
+
+@27    = ~Questi potenti simboli sacri vengono affidati solo ai servitori più degni e più devoti del Signore dell'Alba.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Classe Armatura: +1
+– Resistenza alla Magia: +5%
+– Può memorizzare un incantesimo divino addizionale di 6° e di 7° livello
+
+Peso: 0~
+
+@28    = ~Questi potenti simboli sacri vengono affidati solo ai servitori più degni e più devoti dell'Osservatore.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Classe Armatura: +1
+– Resistenza alla Magia: +5%
+– Può memorizzare un incantesimo divino addizionale di 6° e di 7° livello
+
+Peso: 0~
+
+@29    = ~Questi potenti simboli sacri vengono affidati solo ai servitori più degni e più devoti del Signore della Tempesta.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Classe Armatura: +1
+– Resistenza alla Magia: +5%
+– Può memorizzare un incantesimo divino addizionale di 6° e di 7° livello
+
+Peso: 0~
+
+@30    = ~Questi potenti simboli sacri vengono affidati solo ai servitori più degni e più devoti dello Gnomo delle Foreste.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Classe Armatura: +1
+– Resistenza alla Magia: +5%
+– Può memorizzare un incantesimo divino addizionale di 6° e di 7° livello
+
+Peso: 0~
+
+@31    = ~Questi potenti simboli sacri vengono affidati solo ai servitori più degni e più devoti della Signora della Notte.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Classe Armatura: +1
+– Resistenza alla Magia: +5%
+– Può memorizzare un incantesimo divino addizionale di 6° e di 7° livello
+
+Peso: 0~
+
+@32    = ~Questi potenti simboli sacri vengono affidati solo ai servitori più degni e più devoti del Dio Ferito.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Forza: +1
+– Classe Armatura: +1
+– Resistenza alla Magia: +5%
+– Può memorizzare un incantesimo divino addizionale di 6° e di 7° livello
+
+Peso: 0~
+
+@33    = ~Questa era l'arma di Dominique Harl, un paladino cieco che viaggiava spesso per Faerûn. Quando veniva attaccato, Dominique liberava la nebbia nera che dà il nome all'alabarda, accecando potenzialmente tutti nel raggio di 3 metri. Questo gli dava spesso un vantaggio, in quanto aveva trascorso tutta la sua vita nell'oscurità, vedendo solo la luce interiore della fede. Alla fine, Dominique cadde; il suo corpo venne trovato in un'oscura foresta, ucciso da una creatura della notte ancora più a suo agio di lui tra le tenebre.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio deve superare un tiro salvezza contro Incantesimi o diventare Accecato per 3 round
+
+THAC0: +4
+Danno: 1d10+4 (perforante)
+Fattore-velocità: 5
+Tipo di Competenza: Alabarda
+Tipo: A due mani
+Richiede:
+Forza 13
+
+Peso: 10~
+
+@34    = ~Questa cintura aumenta la costituzione di chi la indossa. Re Violos la usò quando guidò una spedizione contro i troll delle paludi. Era stato duramente indebolito lo scorso inverno e non aveva più la salute di una volta. La cintura gli diede più anni di vita e ispirò i suoi uomini a rinnovare ancora una volta la fiducia nel loro re.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Costituzione: 18
+
+Peso: 2~
+
+@35    = ~Nuovi Oggetti~
+
+@36    = ~Macellaio degli Innocenti
+Questa gigantesca mannaia a forma di ascia si è guadagnata il suo soprannome mentre era nelle mani di Oswell Breck, un macellaio che un tempo serviva il quartiere di Clerk di Sigil. La leggenda narra che un giorno questo affabile e rispettato cittadino si sia improvvisamente scatenato in una furia omicida e sanguinosa durata dieci giorni e dieci notti. Mannaia in mano, Oswell si aggirava per le strade del quartiere, massacrando brutalmente ogni uomo, donna e bambino abbastanza sfortunato da incrociare il suo cammino finché la Signora in persona non sia intervenuta. Si dice che soffrisse di una strana malattia che gli fece lentamente deperire il corpo, e fu proprio questa malattia a erodere la sua sanità mentale e a scatenare la serie di omicidi.
+
+L'origine di questo strumento di carneficina è avvolta nel mistero. Tuttavia, i vari maghi e studiosi che hanno esaminato l'arma dopo l'incarcerazione (tramite incantesimo Labirinto) di Oswell hanno catalogato la natura del suo incantamento. La mannaia sembra nutrirsi delle sue vittime, succhiandone la forza vitale e donandone una parte a chi la impugna.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Ogni colpo messo a segno risucchia 2 Punti Ferita dal bersaglio e li trasferisce a chi brandisce l'arma (senza andare oltre ai suoi Punti Ferita Massimi)
+
+THAC0: +3
+Danno: 2d4 +3 (tagliente)
+Fattore-velocità: 0
+Tipo di Competenza: Pugnale
+Tipo: A una mano
+Richiede:
+Forza 5
+
+Peso: 5~
+
+@37    = ~Macellaio degli Innocenti~
+
+@38   = ~Macellaio degli Innocenti~
+
+@39    = ~Oggetti da Siege of Dragonspear~
+
+@40    = ~Molti ladri preferiscono armi che abbiano una lama quando colpiscono mentre sono nascosti tra le ombre, ma non tutti. Sia che si tratti di convinzioni religiose, preferenze personali o tendenze contro il sistema, alcuni ladri preferiscono colpire alle spalle i loro nemici con uno strumento contundente.
+
+STATISTICHE:
+
+Abilità in combattimento:
+- Rende privo di sensi il bersaglio per 2 round quando viene eseguita con successo una Pugnalata alle Spalle (un tiro-salvezza contro Morte effettuato con successo nega gli effetti)
+
+THAC0 +2
+Danno: 1d6+2 (contundente)
+Fattore-velocità: 2
+Tipo di Competenza: Clava
+Tipo: A una mano
+
+Richiede:
+Forza 5
+
+Peso: 3~
+
+@41    = ~Bastonaspalle +2~
+
+@42    = ~Bastonaspalle +2~
+
+@43    = ~Realizzato con la più raffinata pelle di daino disponibile, questo paio di guanti è stato ovviamente pensato per mani gnomiche (sebbene anche i nani e altre razze di piccola taglia possano utilizzarli). Nelle giuste mani, i guanti offrono protezione e comodità in eguali proporzioni. Vestendoli come una seconda pelle, il portatore diventa più sensibile a ciò che le sue mani stanno facendo; questa maggiore concentrazione aumenta la sua agilità e la sua destrezza.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Destrezza: +2 per gli gnomi, +1 per gli halfling, i nani e i goblin
+- Svuotare Tasche: +25%
+- Piazzare Trappole: +25%
+
+Peso: 2~
+
+@44    = ~Guanti Dita Leste~
+
+@45    = ~Guanti Dita Leste~
+
+@46    = ~Questi guanti sono di supporto nell'inseguimento e nell'uccisione di una preda. I preferiti da cacciatori e furfanti di tutti i tipi, mostrano il loro pieno potere quando vengono indossati da un infiltrato. Realizzati in morbido cuoio con cinghie in ottone lungo il fianco, questi guanti sono spesso decorati con figure ricamate di cervi, volpi o, come nel caso di questo paio, lupi.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Destrezza: +1
+- Nascondersi tra le Ombre: +15% (+30% per infiltrati)
+- Moltiplicatore di Pugnalata alle Spalle: +1 (per infiltrati)
+
+Peso: 2~
+
+@47    = ~Guanti dell'Infiltrato~
+
+@48    = ~Guanti dell'Infiltrato~
+
+@49    = ~Questa cornamusa color viola scuro possiede una strana superficie pelosa. Esaminandola da vicino, sembra che sia stata realizzata con la pelle di una creatura provvista di tentacoli, ognuno dei quali è stato impiegato per realizzare i tubi ricoperti di pelo porpora dello strumento. Quando viene suonata, la cornamusa ringhia e grida come una creatura sofferente.
+
+STATISTICHE:
+
+Abilità attivabili:
+- Scoppio Sonico due volte al giorno
+  Danno: 4d8 punti di danno sonico (solo per la sottoclasse del giullare), 2d8 (per le altre classi e sottoclassi); un tiro-salvezza contro Soffio effettuato con successo dimezza il danno
+  Speciale: Assorda per 3 round (un tiro-salvezza contro Soffio effettuato con successo nega gli effetti)
+  Area d'effetto: Raggio di 4,5 metri attorno al personaggio
+
+Peso: 3~
+
+@50    = ~Cornamusa Urlante~
+
+@51    = ~Cornamusa Urlante~
+
+@52    = ~Sebbene questo mantello grigio scuro sembri essere tessuto in pietra, in realtà è morbido e flessibile come un panno. Quando viene indossato, permette di assumere una forma di pietra una volta al giorno. Questi mantelli si trovano spesso tra i duergar, i primi ad averli realizzati, ma occasionalmente raggiungono la superficie.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Resistenza ai danni fisici: +5%
+- Protegge contro i colpi critici
+
+Abilità attivabili:
+- Forma di Pietra una volta al giorno
+  Classe Armatura: 0
+  Tiri-salvezza: +3
+  Destrezza: -3
+  Durata: 5 turni
+
+Peso: 2~
+
+@53    = ~Mantello del Gargoyle~
+
+@54    = ~Mantello del Gargoyle~
+
+@55    = ~Questa scintillante corona appare notevole, ma in sostanza è forgiata con oro falso e le "gemme" incastonate sono soltanto pezzi di vetro colorato. Indossando la corona, il portatore potrà preparare incantesimi addizionali, ma si riempirà la mente con false conoscenze.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Permette di memorizzare due incantesimi addizionali di 3° livello, uno di 4° livello e uno di 5° livello
+- Conoscenza: -30
+
+Peso: 1~
+
+@56    = ~Corona di Menzogne~
+
+@57    = ~Corona di Menzogne~
+
+@58    = ~Questo classico cappello appuntito da mago palesa la professione di chi lo indossa grazie agli sgargianti lustrini da cui è decorato. Il cappello da mago rende il portatore molto più veloce tanto nel lanciare incantesimi quanto nel muoversi a piedi. Dopotutto, un mago che scappa da un combattimento sopravvive per scappare un altro giorno.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Il tempo di lancio degli incantesimi viene ridotto di 1
+- Fattore-movimento: +2
+
+Peso: 0~
+
+@59    = ~Cappello da Mago~
+
+@60    = ~Cappello da Mago~
+
+@61    = ~Quasi un secolo fa, la paladina di Lathander Edythe Brightsworn commissionò questo elmo mentre si preparava ad affrontare un potente vampiro. Durante i molti anni trascorsi come cavaliere del Signore del Mattino, Lady Brightsworn aveva accumulato una certa ricchezza, la maggior parte della quale venne spesa nella preparazione della sua missione. Dopo aver seguito il vampiro nella Città dei Morti di Waterdeep, riunì una compagnia di avventurieri e li guidò fin nella tana del mostro. Solo uno del gruppo fece ritorno. Insanguinato e stralunato, stringendo l'elmo di Lady Brightsworn tra le mani, raccontò degli orrendi cunicoli che il gruppo aveva trovato e del vampiro che li aveva sterminati, uccidendoli uno ad uno. Delle ricerche effettuate in seguito nella Città dei Morti, rivelarono alcuni dei cunicoli, ma tutti erano crollati. Del vampiro non c'era alcuna traccia.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Immunità a Paura, Charme e Paralisi
+- Protegge contro i colpi critici
+
+Peso: 1~
+
+@62    = ~Diadema della Focalizzazione~
+
+@63    = ~Diadema della Focalizzazione~
+
+@64    = ~Il guerriero che un tempo indossava quest'armatura morì per mano di un amico fidato. Il segno del suo tradimento rimase indelebile nelle macchie di sangue che si sono imbrunite sulla scintillante armatura di ossa bianche. Il completo svolge il suo dovere, sebbene renda sgradevole alla vista la persona che lo indossa.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Immunità alla Pugnalata alle Spalle
+- Carisma: -1
+
+Classe Armatura: 1 (-2 contro danno tagliente)
+
+Richiede:
+Forza 8
+
+Peso: 20~
+
+@65    = ~Armatura di Ossa Insanguinate +2~
+
+@66    = ~Armatura di Ossa Insanguinate +2~
+
+@67    = ~La provenienza di questa tunica di colore porpora scuro si è perduta nelle nebbie del tempo, ma un leggero odore di magia stantia, indugia nell'aria attorno al logoro capo. Colui che la indossava, chiaramente, non era estraneo alla Trama. Esaminando da vicino la tunica, si è in grado di scorgere il disegno di una fiamma stilizzata ricamata nel tessuto. Sembra probabile che l'intricato disegno sia sempre stato assai sottile, ma anche se non fosse così, innumerevoli anni di usura hanno reso le fiamme quasi del tutto invisibili.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Intelligenza: +1
+- Classe Armatura: 5
+
+Abilità attivabili: 
+- Sequenziatore di Incantesimi una volta al giorno
+
+Peso: 3~
+
+@68    = ~Tunica dell'Attitudine Arcana~
+
+@69    = ~Tunica dell'Attitudine Arcana~
+
+@70    = ~Gli Egon erano una famiglia di fedeli adoratori di Lathander che avevano guadagnato la loro fortuna proteggendo i più deboli. Anche se la discendenza degli Egon si è interrotta, la loro influenza si avverte ancora tramite la presenza di questo scudo, un raffinato oggetto imbevuto della potenza del Signore del Mattino.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Classe Armatura: +3
+- Livello di Scacciare Non morti: +1 (+2 per i sacerdoti di Lathander e i cacciatori di non morti)
+
+Richiede:
+Forza 12
+
+Peso: 6~
+
+@71    = ~Scudo degli Egon +2~
+
+@72    = ~Scudo degli Egon +2~
+
+@73    = ~Nonostante il nome intimidatorio di questo arco corto, la sua storia non è così terribile. Kitsana, un'elfa ranger, concepì questo arco per il suo uso personale ed era in grado di utilizzarlo con incredibile velocità. Una notte, mentre erano accampati, i membri del gruppo di Kitsana decisero, a turno, di provare a padroneggiare la corda insolitamente sottile e la presa curva dell'arma. Nessuno riuscì a scoccare malamente quanto il guerriero, uno spaccone di nome Tirrel, che non solo mancò il suo bersaglio di mezzo metro, ma fu anche colpito dalla corda dell'arco lungo tutto l'avambraccio, tanto da perdere un grosso lembo di pelle. La memoria di Kitsana e del suo gruppo è scomparsa tra le nebbie del tempo, ma il suo arco è ancora in circolazione.
+
+STATISTICHE:
+
+Abilità in combattimento:
+- 5% di possibilità di velocizzare il possessore per 4 round ad ogni colpo
+
+Abilità durante l'uso:
+- Fattore-movimento: +2
+
+THAC0: +2
+Danno: +2
+Fattore-velocità: 4
+Tipo di Competenza: Arco Corto
+Tipo: A due mani
+
+Richiede:
+Forza 3
+Destrezza 16
+
+Peso: 1~
+
+@74    = ~Squarciapelle +2~
+
+@75    = ~Squarciapelle +2~
+
+@76    = ~Questo quadrello è stato magicamente incantato in modo da diventare avviluppato dalle fiamme quando viene scagliato. L'effetto è simile a quello di un quadrello impregnato di petrolio a cui viene dato fuoco.
+
+STATISTICHE:
+
+THAC0: +1
+Danno: 1d8+1, +1d3 punti di danno da fuoco
+Tipo di Danno: Proiettile
+Dispositivo: Balestra
+
+Peso: 0~
+
+@77    = ~Quadrello Infuocato +1~
+
+@78    = ~Quadrello Infuocato +1~
+
+@79    = ~Questo quadrello è stato magicamente incantato in modo da trasformarsi in una sfera di ghiaccio roteante una volta scagliato. Quando il quadrello colpisce la sua vittima, un'ondata di freddo ne attraverserà il corpo, bruciando e intorpidendo le sue membra.
+
+STATISTICHE:
+
+THAC0: +1
+Danno: 1d8+1, +1d3 punti di danno da freddo
+Tipo di Danno: Proiettile
+Dispositivo: Balestra
+
+Peso: 0~
+
+@80    = ~Quadrello Gelido +1~
+
+@81    = ~Quadrello Gelido +1~
+
+@82    = ~Mercante di Frecce Migliorato~
+
+@83    = ~Ricavati dalle falangi di salamandre morte, questi proiettili incendiari prendono fuoco una volta scagliati da una fionda.
+
+STATISTICHE:
+
+Danno: 1d4+1, +1d6 punti di danno da fuoco (un tiro-salvezza contro Incantesimi effettuato con successo nega il danno addizionale)
+Tipo di Danno: Proiettile
+Dispositivo: Fionda
+
+Peso: 0~
+
+@84    = ~Proiettile Infuocato +1~
+
+@85    = ~Proiettile Infuocato +1~
+
+@86    = ~Frantumati dal cadavere di un elementale del ghiaccio, questi aguzzi proiettili esplodono all'impatto per congelare il bersaglio con un freddo innaturale.
+
+STATISTICHE:
+
+Danno: 1d4+1, +1d6 punti di danno da freddo (un tiro-salvezza contro Incantesimi effettuato con successo nega il danno addizionale)
+Tipo di Danno: Proiettile
+Dispositivo: Fionda
+
+Peso: 0~
+
+@87    = ~Proiettile Gelido +1~
+
+@88    = ~Proiettile Gelido +1~
+
+@89    = ~Ciascuno di questi proiettili di rame è modellato intorno alle vertebre di un'anguilla elettrica. All'impatto, rilasciano una potente scossa sul bersaglio.
+
+STATISTICHE:
+
+Danno: 1d4+1, +1d6 punti di danno da elettricità (un tiro-salvezza contro Incantesimi effettuato con successo nega il danno addizionale)
+Tipo di Danno: Proiettile
+Dispositivo: Fionda
+
+Peso: 0~
+
+@90    = ~Proiettile Folgorante +1~
+
+@91    = ~Proiettile Folgorante +1~
+
+@92    = ~Un gancio su questo pesante anello in acciaio gli permette di aprirsi come una cerniera. Decine di chiavi possono essere infilate sull'anello per tenerle in perfetto ordine.
+
+STATISTICHE:
+
+Peso: 0~
+
+@93    = ~Portachiavi~
+
+@94    = ~Portachiavi~
+
+@95    = ~Questo pesante pettorale di acciaio reca l'immagine di un drago di rame nell'atto di impennarsi. L'armoniosità delle forme e il raffinato dettaglio dell'immagine del drago suggeriscono una manifattura nanica.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- Resistenza al Fuoco: +40%
+- Tiri-salvezza contro Soffio: +2
+
+Classe Armatura: 0 (-4 contro danno tagliente, -3 contro danno perforante e da proiettile)
+
+Richiede:
+Forza 15
+
+Peso: 30~
+
+@96    = ~Cotta di Piastre Completa di Daeros +1~
+
+@97    = ~Cotta di Piastre Completa di Daeros +1~
+
+@98    = ~Questa spada lunga infernale, forgiata per assomigliare alla lingua di un diavolo, ha una lama "più tagliente di qualsiasi urlo" secondo la scrittura sull'elsa. Il suo bordo fende facilmente l'armatura e le ossa e lascia un residuo acido che sfrigola nelle ferite inflitte. Il dolore che ne deriva è così acuto che le sue vittime, a causa dell'agonia, accusano evidenti difficoltà motorie e camminano più lentamente.
+
+STATISTICHE:
+
+Abilità in combattimento:
+- 10% di possibilità per colpo di rallentare il bersaglio per 3 round (effettuare con successo un tiro-salvezza contro Incantesimi nega gli effetti)
+
+THAC0: +3
+Danno: 1d8+3, +1d3 punti di danno da acido
+Tipo di Danno: Tagliente
+Fattore-velocità: 2
+Tipo di Competenza: Spada Lunga
+Tipo: A una mano
+
+Richiede:
+Forza 6
+
+Peso: 2~
+
+@99    = ~Lingua Acida +3~
+
+@100    = ~Lingua Acida +3~
+
+@101    = ~Questa statuetta di meraviglioso potere è stata ultimamente in possesso di Drizzt Do'Urden, che ha trattato Guenhwyvar come suo fidato compagno animale. Può essere evocata al fianco del suo padrone per otto ore ogni giorno. Nonostante sarebbe possibile per Guenhwyvar stare al di fuori del Piano Astrale molto più a lungo, questo le causerebbe un'incredibile sonnolenza che le farebbe a stento tenere la testa alzata.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Evoca Guenhwyvar una volta al giorno
+
+Peso: 5~
+
+@102    = ~Statuetta di Guenhwyvar~
+
+@103    = ~Statuetta di Guenhwyvar~
+
+@104    = ~Clessidra di Gond~
+@105    = ~Clessidra di Gond~
+@106    = ~Queste clessidre magiche sono considerate tra gli artefatti più potenti di Gond. Una volta al giorno, è possibile utilizzare i loro poteri nascosti per fermare temporaneamente il corso del tempo. Questa clessidra in particolare è stata a lungo in possesso degli Stregoni Incappucciati, che ne hanno studiato i poteri.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Fermare il Tempo una volta al giorno
+
+Peso: 1~
+
+@107    = ~Bandana della Concentrazione~
+@108    = ~Bandana della Concentrazione~
+@109    = ~Un adoratore di Nobanion realizzò questa bandana di seta dorata, ricamata con astratti leoni in movimento lungo la sua lunghezza, mentre meditava sugli insegnamenti di Lord Firemane. Quando fu completa, l'adoratore scoprì che Nobanion aveva premiato la sua fede concedendo alla bandana la capacità di evocare un'ondata di potenza in chi la indossava.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+- THAC0: +2 (con attacchi a mani nude)
+- Possibilità di Colpo Critico: +5% (con attacchi a mani nude)
+
+Abilità attivabili:
+- Convocare la Sacra Potenza una volta al giorno
+
+Peso: 1~
+
+@110    = ~Anello della Goffaggine Arcana Superiore~
+@111    = ~Anello della Goffaggine Arcana Superiore~
+@112    = ~È difficile determinare se questo anello sia una benedizione o una maledizione. Nonostante abbia salvato le vite di molti maghi, un considerevole numero di loro presto o tardi è morto a causa di questo oggetto. L'anello funge da conduttore con il Piano Astrale, e il risultato è che ogni incantesimo viene lanciato quasi all'istante. Sfortunatamente, la connessione diretta con il Piano Astrale richiede una tremenda quantità di concentrazione, e anche la più piccola distrazione porta al fallimento nel lancio di un incantesimo.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Il lancio degli incantesimi è istantaneo
+– Fallimento degli incantesimi: 30%
+– Classe Armatura: +1
+
+Peso: 0~
+
+@113    = ~Rivista Libertà d'Azione~
+
+@114    = ~Vesti di Kangaxx~
+@115    = ~Vesti di Kangaxx~
+@116    = ~Queste potenti vesti furono indossate dall'antico lich Kangaxx, che trovò il modo di collegare la sua essenza a questo piano e diventare immune a tutte le forme di imprigionamento magico. Parte di questo incantesimo è ancora presente nelle sue vesti, ma il loro tessuto è completamente intriso di malvagità.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: 3
+– Resistenza alla Magia: +10%
+– Immunità a forme magiche di imprigionamento
+
+Peso: 6~
